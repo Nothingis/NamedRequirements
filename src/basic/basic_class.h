@@ -6,7 +6,7 @@
  */
 
 #ifndef SRC_BASIC_BASIC_CLASS_H_
-#define SRC_BASIC_BASIC_CLASS_H_
+#define SRC_LAYOUT_LAYOUT_H_
 
 namespace basic {
 
